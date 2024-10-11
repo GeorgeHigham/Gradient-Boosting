@@ -17,5 +17,4 @@ Results produced from the self-built model and the built in library model proved
 
 ## References: 
 UCI ML Breast Cancer Wisconsin (Diagnostic) dataset from https://goo.gl/U2Uwz2
-![image](https://github.com/user-attachments/assets/ce90c7fc-bf2f-4d10-8f70-eefb1216cf44)
 
